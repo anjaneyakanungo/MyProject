@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Thoughtsphere
+ *
+ */
+module myproject {
+}
